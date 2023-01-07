@@ -690,7 +690,7 @@ img {
   color: var(--button-bg-color);
 }
 
-.nav-link .current {
+.nav-link.current {
   color: var(--button-bg-color);
 }
 
